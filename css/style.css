@@ -1,0 +1,35 @@
+h1
+{
+    color:#698474;
+    background-color: #f0f0f0;
+    padding: 48px;
+
+    text-align: center;
+    border: 3px solid #000;
+}
+
+h2{
+    color: grey;
+}
+
+/* media query */
+@media only screen and (min-width: 650px) 
+{
+    body
+    {
+        background-color: #000;
+        color: #fff;
+        font-family: "comic sans ms", "comic sans", "cursive";
+    }
+}
+
+body
+{
+    background-color: #bdcebe;
+}
+
+p
+{
+    color: #000;
+}
+
